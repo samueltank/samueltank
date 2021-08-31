@@ -9,6 +9,7 @@
 - ♐ Sagitariano;
 - 📫 Entre em contato comigo pelo e-mail: dev.samueltank@gmail.com;
 
+<hr>
 
 <div align="right">
   <a href="https://github.com/samueltank">
@@ -19,6 +20,8 @@
   <a href="https://github.com/samueltank">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltank&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<hr>  
   
 <div style="display: inline_block" align="center">
   <br>
