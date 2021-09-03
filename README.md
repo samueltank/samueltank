@@ -2,7 +2,7 @@
 
 - 🌎 Hello World!;
 - 🌱 Estou aprendendo tecnologias web como HTML, CSS e JavaScript e Java(cafézão);
-- 💻 Aprendi lógica de programação em Portugol;
+- 💻 Aprendendo lógica de programação em Portugol;
 - 🤔 Aceito ideias para criação de páginas web;
 - 😄 Pronouns: Ele/Dele;
 - ⚡ Minha ciência favorita é Matemática;
