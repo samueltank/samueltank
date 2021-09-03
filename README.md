@@ -7,7 +7,6 @@
 - 😄 Pronouns: Ele/Dele;
 - ⚡ Minha ciência favorita é Matemática;
 - ♐ Sagitariano;
-- 📫 Entre em contato comigo pelo e-mail: dev.samueltank@gmail.com;
 
 <hr>
 
