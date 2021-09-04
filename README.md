@@ -8,6 +8,8 @@
 * 😄  Pronouns: Ele/Dele;
 * ⚡  Minha ciência favorita é Matemática;
 * ♐  Sagitário;
+* ⌨️  Amor pela fonte monoespaçada JetBrains Mono;
+* 🧛  Carinho pelo tema Dracula;
 
 <h2 align="center">Status</h2>
 <div style="display: inline_block" align="center">
