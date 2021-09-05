@@ -29,11 +29,12 @@
     <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="windows" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+    <img align="center" alt="bash" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
   
 <h2 align="center">Browser favorito</h2>
 <div style="display: inline_block" align="center">
-  <img align="center" alt="firefox" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg">
+  <img align="center" alt="firefox" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
     
 <h2 align="center">Degustadora de Commits</h2>
