@@ -37,6 +37,12 @@
   <img align="center" alt="firefox" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg">
 </div>
     
+<h2 align="center">Versionamento de código</h2>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+    
 <h2 align="center">Degustadora de Commits</h2>
     
 ![Snake animation](https://github.com/samueltank/samueltank/blob/output/github-contribution-grid-snake.svg)
