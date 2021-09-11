@@ -1,7 +1,8 @@
 <h1 align="center"> :octocat: Olá, seja bem-vindo(a)! :octocat:</h1>
 
 * 🌎  Olá, mundo!;
-* 🌱  Estou aprendendo tecnologias web como HTML, CSS e JavaScript e Java(cafézão);
+* 🌱  Estou aprendendo tecnologias web como HTML, CSS e JavaScript
+* ☕  Estou aprendendo a linguagem de programação Java;
 * 🐧  Iniciante em Linux;
 * 💻  Aprendendo lógica de programação em Portugol;
 * 🤔  Aceito ideias para criação de páginas web;
