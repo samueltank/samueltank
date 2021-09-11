@@ -1,16 +1,16 @@
 <h1 align="center"> :octocat: Olá, seja bem-vindo(a)! :octocat:</h1>
 
 * 🌎  Olá, mundo!;
-* 🌱  Estou aprendendo tecnologias web como HTML, CSS e JavaScript
-* ☕  Estou aprendendo a linguagem de programação Java;
+* 🐱‍💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
+* 🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript
+* ☕  -Estou aprendendo a linguagem de programação Java;
 * 🐧  Iniciante em Linux;
 * 💻  Aprendendo lógica de programação em Portugol;
-* 🤔  Aceito ideias para criação de páginas web;
-* 😄  Pronouns: Ele/Dele;
-* ⚡  Minha ciência favorita é Matemática;
+* 🤔  -Aceito ideias para criação de páginas web;
+* ⚡  Ciência favorita: Matemática;
 * ♐  Sagitário;
-* ⌨️  Amor pela fonte monoespaçada JetBrains Mono;
-* 🧛  Carinho pelo tema Dracula;
+* ⌨️  Fonte monoespaçada favorita: Source Code Pro (Adobe);
+* 🧛  Tema Favorito: Dracula;
 
 <h2 align="center">Status</h2>
 <div style="display: inline_block" align="center">
