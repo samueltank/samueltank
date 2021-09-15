@@ -1,4 +1,4 @@
-<h1 align="center"> :octocat: Olá, seja bem-vindo(a)! :octocat:</h1>
+<h1 align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/012/644/709/original/jakub-kusyk-astronomia-cv.gif?1535803691" width="150px">Olá, seja bem-vindo(a)!<img src="https://cdnb.artstation.com/p/assets/images/images/012/644/713/original/jakub-kusyk-druk-3d-cv-animacja.gif?1535803711" width="125px"></h1>
 
 * 🌎  Olá, mundo!;
 * 🐱‍💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
