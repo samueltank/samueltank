@@ -24,17 +24,17 @@
 <h2 align="center">Sobre mim</h2>
 <p><q>A vitória está reservada para aqueles que estão dispostos a pagar o preço.</q> -Sun Tzu.</p>
 
-<div style="display: inline_block" align="center">
-  * 🐱‍💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
-  * 🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
-  * ☕  -Estou aprendendo a linguagem de programação Java;
-  * 🐧  Iniciante em Linux;
-  * 💻  Aprendendo lógica de programação em Portugol;
-  * ⚡  Ciência favorita: Matemática;
-  * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: Source Code Pro (Adobe);
-  * 🧛  Tema Favorito: Dracula;
-</div>
+  
+💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
+🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
+☕  -Estou aprendendo a linguagem de programação Java;
+🐧  Iniciante em Linux;
+💻  Aprendendo lógica de programação em Portugol;
+⚡  Ciência favorita: Matemática;
+♐  Sagitário;
+⌨️  Fonte monoespaçada favorita: Source Code Pro (Adobe);
+🧛  Tema Favorito: Dracula;
+  
 
 <h2 align="center">Status</h2>
 <div style="display: inline_block" align="center">
