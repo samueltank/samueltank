@@ -25,15 +25,15 @@
 <p><q>A vitória está reservada para aqueles que estão dispostos a pagar o preço.</q> -Sun Tzu.</p>
 
   
-💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
-🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
-☕  -Estou aprendendo a linguagem de programação Java;
-🐧  Iniciante em Linux;
-💻  Aprendendo lógica de programação em Portugol;
-⚡  Ciência favorita: Matemática;
-♐  Sagitário;
-⌨️  Fonte monoespaçada favorita: Source Code Pro (Adobe);
-🧛  Tema Favorito: Dracula;
+  * 💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
+  * 🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
+  * ☕  -Estou aprendendo a linguagem de programação Java;
+  * 🐧  Iniciante em Linux;
+  * 💻  Aprendendo lógica de programação em Portugol;
+  * ⚡  Ciência favorita: Matemática;
+  * ♐  Sagitário;
+  * ⌨️  Fonte monoespaçada favorita: Source Code Pro (Adobe);
+  * 🧛  Tema Favorito: Dracula;
   
 
 <h2 align="center">Status</h2>
