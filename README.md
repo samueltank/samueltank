@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/012/644/709/original/jakub-kusyk-astronomia-cv.gif?1535803691" width="150px">HELLO WORLD!</h1>
 
 <div style="display: inline_block" align="center">
-  <img src="https://64.media.tumblr.com/e7f77d9c8bb9c81d996a25ef0b0c9af7/9cf6d78eec795c43-20/s540x810/480b6da37d274b1c7a02ced9e8d1fd61447af364.gifv">
+  <img src="https://static.wikia.nocookie.net/liberproeliis/images/3/3d/7a468aa9d4e4295044f02a09bd9da634.gif/revision/latest?cb=20200419171538&path-prefix=pt-br">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
