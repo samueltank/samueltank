@@ -3,7 +3,7 @@
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://i.pinimg.com/originals/a7/f4/e2/a7f4e28cf5cbd24a8130d4d970c8174e.gif">
+  <img src="https://static.wikia.nocookie.net/liberproeliis/images/3/3d/7a468aa9d4e4295044f02a09bd9da634.gif/revision/latest?cb=20200419171538&path-prefix=pt-br">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
