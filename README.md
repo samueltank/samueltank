@@ -1,5 +1,7 @@
-<h1 align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/012/644/709/original/jakub-kusyk-astronomia-cv.gif?1535803691" width="150px">HELLO WORLD!</h1>
-
+<div style="display: inline_block;" align="center">
+<h1><img src="https://pa1.narvii.com/6567/0afdd37163427502e5f2f20f8f0a47e8b4ed6d90_00.gif" width="50px">HELLO WORLD!</h1>
+</div>  
+  
 <div style="display: inline_block" align="center">
   <img src="https://static.wikia.nocookie.net/liberproeliis/images/3/3d/7a468aa9d4e4295044f02a09bd9da634.gif/revision/latest?cb=20200419171538&path-prefix=pt-br">
 </div>
