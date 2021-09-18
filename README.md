@@ -1,5 +1,5 @@
 <div style="display: inline_block;" align="center">
-<h1><img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px">HELLO WORLD!<img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px"></h1>
+<h1><img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px">Let the fire burn in your heart!<img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px"></h1>
 </div>  
   
 <div style="display: inline_block" align="center">
