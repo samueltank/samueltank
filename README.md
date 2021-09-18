@@ -1,5 +1,5 @@
 <div style="display: inline_block;" align="center">
-<h1><img src="https://pa1.narvii.com/6567/0afdd37163427502e5f2f20f8f0a47e8b4ed6d90_00.gif" width="50px">HELLO WORLD!</h1>
+<h1><img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px">HELLO WORLD!<img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px"></h1>
 </div>  
   
 <div style="display: inline_block" align="center">
