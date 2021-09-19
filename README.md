@@ -3,7 +3,7 @@
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://media1.giphy.com/media/ICMi8miNVn7Mc/giphy.gif">
+  <img src="https://cdn.dribbble.com/users/2899152/screenshots/8028291/media/2f52bef30886295f83f564115f62cc6c.gif">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
