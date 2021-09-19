@@ -1,9 +1,9 @@
 <div style="display: inline_block;" align="center">
-<h1><img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px">May the flame of your heart never be extinguished<img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-burning-fire-72dpi-forPersonalUseOnly.gif" width="40px"></h1>
+<h1><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9892934f-6880-48f7-82ff-918430f875c9/d9vllht-88fd3c58-3ee1-4c5c-b213-20bf199c9abb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4OTI5MzRmLTY4ODAtNDhmNy04MmZmLTkxODQzMGY4NzVjOVwvZDl2bGxodC04OGZkM2M1OC0zZWUxLTRjNWMtYjIxMy0yMGJmMTk5YzlhYmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XtNPPmuipDGMzQAK163_W0zVqgZPbDk4c6Sf3-DdnYs" width="40px">Browsing...<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9892934f-6880-48f7-82ff-918430f875c9/d9vllht-88fd3c58-3ee1-4c5c-b213-20bf199c9abb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4OTI5MzRmLTY4ODAtNDhmNy04MmZmLTkxODQzMGY4NzVjOVwvZDl2bGxodC04OGZkM2M1OC0zZWUxLTRjNWMtYjIxMy0yMGJmMTk5YzlhYmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XtNPPmuipDGMzQAK163_W0zVqgZPbDk4c6Sf3-DdnYs" width="40px"></h1>
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://static.wikia.nocookie.net/liberproeliis/images/3/3d/7a468aa9d4e4295044f02a09bd9da634.gif/revision/latest?cb=20200419171538&path-prefix=pt-br">
+  <img src="https://media1.giphy.com/media/ICMi8miNVn7Mc/giphy.gif">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
@@ -19,6 +19,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 </div>
@@ -31,10 +32,10 @@
   * 🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
   * ☕  -Estou aprendendo a linguagem de programação Java;
   * 🐧  Iniciante em Linux;
-  * 💻  Aprendendo lógica de programação em Portugol;
+  * 💻  Aprendi lógica de programação com Portugol;
   * ⚡  Ciência favorita: Matemática;
   * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: Source Code Pro (Adobe);
+  * ⌨️  Fonte monoespaçada favorita: Hack;
   * 🧛  Tema Favorito: Dracula;
   
 
