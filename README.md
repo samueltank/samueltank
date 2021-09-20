@@ -35,7 +35,7 @@
   * 💻  Aprendi lógica de programação com Portugol;
   * ⚡  Ciência favorita: Matemática;
   * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: Hack;
+  * ⌨️  Fonte monoespaçada favorita: Source Code Pro;
   * 🧛  Tema Favorito: Dracula;
   
 
