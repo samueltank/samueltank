@@ -1,9 +1,9 @@
 <div style="display: inline_block;" align="center">
-<h1><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9892934f-6880-48f7-82ff-918430f875c9/d9vllht-88fd3c58-3ee1-4c5c-b213-20bf199c9abb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4OTI5MzRmLTY4ODAtNDhmNy04MmZmLTkxODQzMGY4NzVjOVwvZDl2bGxodC04OGZkM2M1OC0zZWUxLTRjNWMtYjIxMy0yMGJmMTk5YzlhYmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XtNPPmuipDGMzQAK163_W0zVqgZPbDk4c6Sf3-DdnYs" width="40px">Browsing...<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9892934f-6880-48f7-82ff-918430f875c9/d9vllht-88fd3c58-3ee1-4c5c-b213-20bf199c9abb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzk4OTI5MzRmLTY4ODAtNDhmNy04MmZmLTkxODQzMGY4NzVjOVwvZDl2bGxodC04OGZkM2M1OC0zZWUxLTRjNWMtYjIxMy0yMGJmMTk5YzlhYmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XtNPPmuipDGMzQAK163_W0zVqgZPbDk4c6Sf3-DdnYs" width="40px"></h1>
+<h1><img src="https://i.pinimg.com/originals/21/03/19/210319adcffc99fe1a3ad496bae53d98.gif" width="40px">IN FOCUS!<img src="https://i.pinimg.com/originals/21/03/19/210319adcffc99fe1a3ad496bae53d98.gif" width="40px"></h1>
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://64.media.tumblr.com/4a3ee1b66f0a10a1d14c11a8b45e75a6/tumblr_put0zi9aSK1uruo10o1_500.gifv">
+  <img src="https://64.media.tumblr.com/81e6e1bfe1aa522cbb8d3f05432ef38a/4d5543eefd4b9977-a6/s540x810/1b52b78c9bab5e9b12756ecd575612e6b1f424c7.gifv">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
