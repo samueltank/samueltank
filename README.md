@@ -3,7 +3,7 @@
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://media1.giphy.com/media/ICMi8miNVn7Mc/giphy.gif">
+  <img src="https://64.media.tumblr.com/4a3ee1b66f0a10a1d14c11a8b45e75a6/tumblr_put0zi9aSK1uruo10o1_500.gifv">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
