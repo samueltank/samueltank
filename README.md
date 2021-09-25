@@ -1,5 +1,5 @@
 <div style="display: inline_block;" align="center">
-<h1><img src="https://i.pinimg.com/originals/21/03/19/210319adcffc99fe1a3ad496bae53d98.gif" width="40px">IN FOCUS!<img src="https://i.pinimg.com/originals/21/03/19/210319adcffc99fe1a3ad496bae53d98.gif" width="40px"></h1>
+<img src="https://i.pinimg.com/originals/31/23/37/312337a73bb3777e68afe83ed2492003.gif" width="150px">
 </div>  
   
 <div style="display: inline_block" align="center">
