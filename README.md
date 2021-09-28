@@ -1,9 +1,9 @@
 <div style="display: inline_block;" align="center">
-<img src="https://i.pinimg.com/originals/31/23/37/312337a73bb3777e68afe83ed2492003.gif" width="150px">
+<img src="https://media1.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" width="150px">
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://i.imgur.com/FTBegRf.gif">
+  <img src="https://64.media.tumblr.com/393429cd696d75cc51038f77ece6b17c/a733673bd1a83899-53/s500x750/f723a23e0abd050d20bd817138415f0783b3aaac.gifv">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
