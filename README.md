@@ -3,7 +3,7 @@
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://pa1.narvii.com/7427/52fde567375a13dd45fac8e72f0ef518e090fc64r1-356-200_hq.gif">
+  <img src="https://i.imgur.com/FTBegRf.gif">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
