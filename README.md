@@ -34,9 +34,9 @@
   * ☕  -Estou aprendendo a linguagem de programação Java;
   * 🐧  Iniciante em Linux;
   * 💻  Aprendi lógica de programação com Portugol;
-  * ⚡  Ciência favorita: Matemática;
+  * 🎲 Ciência favorita: Matemática;
   * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: Source Code Pro(Adobe Open Source);
+  * ⌨️  Fonte monoespaçada favorita: ;
   * 🧛  Tema Favorito: Dracula;
   
 
