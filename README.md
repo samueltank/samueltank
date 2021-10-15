@@ -3,7 +3,7 @@
 </div>  
   
 <div style="display: inline_block" align="center">
-  <img src="https://data.whicdn.com/images/221313726/original.gif">
+  <img src="https://qph.fs.quoracdn.net/main-qimg-9725f43386f85c2923a8bf1c073244b2">
 </div>
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
