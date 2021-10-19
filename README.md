@@ -37,7 +37,7 @@
   * 🎲 Ciência favorita: Matemática;
   * ♐  Sagitário;
   * ⌨️  Fonte monoespaçada favorita: ![Cascadia Mono](https://github.com/microsoft/cascadia-code); 
-  * 🧛  Tema Favorito: ![Dracula](https://draculatheme.com);
+  * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
 <h2 align="center">Status</h2>
