@@ -36,7 +36,7 @@
   * 💻  Aprendi lógica de programação com Portugol;
   * 🎲 Ciência favorita: Matemática;
   * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: ![JetBrains Mono](https://github.com/JetBrains/JetBrainsMono); 
+  * ⌨️  Fonte monoespaçada favorita: Input Mono; 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
