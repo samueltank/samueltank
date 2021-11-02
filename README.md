@@ -29,14 +29,14 @@
 <p><q>A vitória está reservada para aqueles que estão dispostos a pagar o preço.</q> -Sun Tzu.</p>
 
   
-  * 💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industrial;
+  * 💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Serviço Nacional de Aprendizagem Industrial;
   * 🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
   * ☕  -Estou aprendendo a linguagem de programação Java;
   * 🐧  Iniciante em Linux;
   * 💻  Aprendi lógica de programação com Portugol;
   * 🎲 Ciência favorita: Matemática;
   * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: ![Cascadia Mono](https://github.com/microsoft/cascadia-code); 
+  * ⌨️  Fonte monoespaçada favorita: ![JetBrains Mono](https://github.com/JetBrains/JetBrainsMono); 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
