@@ -8,20 +8,24 @@
 
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
  
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  * Back-end: <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
+  * Front-End: ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=border-radius:10px&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/css3-%231572B6.svg?style=border-radius:10px&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/javascript-%23323330.svg?style=border-radius:10px&logo=javascript&logoColor=%23F7DF1E)
+  * Versioning: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=border-radius:10px&logo=git&logoColor=white) 
+  ![](https://img.shields.io/badge/github-%23121011.svg?style=border-radius:10px&logo=github&logoColor=white)
+  * OS: 
+  ![](https://img.shields.io/badge/Windows-0078D6?style=border-radius:10px&logo=windows&logoColor=white)
+  ![](https://img.shields.io/badge/Linux-FCC624?style=border-radius:10px&logo=linux&logoColor=black)
+  * IDE:
+  ![](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=border-radius:10px&logo=Eclipse&logoColor=white)
+  ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=border-radius:10px&logo=intellij-idea&logoColor=white)
+  ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=border-radius:10px&logo=visual-studio-code&logoColor=white)
+  * Design:
+  ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=border-radius:10px&logo=figma&logoColor=white)
+  ![](https://img.shields.io/badge/gimp-5C5543?style=border-radius:10px&logo=gimp&logoColor=white)
   
 </div>
 
@@ -30,14 +34,13 @@
 <!-- coment -->
 
   
-  * 💻  -Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Serviço Nacional de Aprendizagem Industrial;
-  * 🌱  -Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
-  * ☕  -Estou aprendendo a linguagem de programação Java;
-  * 🐧  Iniciante em Linux;
-  * 💻  Aprendi lógica de programação com Portugol;
+  * 💻  Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Serviço Nacional de Aprendizagem Industrial;
+  * 🌱  Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
+  * ☕  Estou aprendendo a linguagem de programação Java;
+  * 🐧  Sou Iniciante em Linux;
+  * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ♐  Sagitário;
-  * ⌨️  Fonte monoespaçada favorita: SF Mono; 
+  * ⌨️  Fonte monoespaçada favorita: Code New Roman; 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
