@@ -40,7 +40,7 @@
   * 🐧  Sou Iniciante em Linux;
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ⌨️  Fonte monoespaçada favorita: Code New Roman; 
+  * ⌨️  Fonte monoespaçada favorita: ![Office Code Pro](https://github.com/nathco/Office-Code-Pro); 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
