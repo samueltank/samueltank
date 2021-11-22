@@ -40,7 +40,7 @@
   * 🐧  Sou Iniciante em Linux;
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ⌨️  Fonte monoespaçada favorita: SF Mono; 
+  * ⌨️  Fonte monoespaçada favorita: ![Inconsolata](https://github.com/googlefonts/inconsolata); 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
