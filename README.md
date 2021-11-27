@@ -9,26 +9,25 @@
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
  
 <div style="display: inline_block">
-
-  * Back-end: <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
-  * Front-End: ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=border-radius:10px&logo=html5&logoColor=white)
+  
+  * <strong>Back-end:</strong> <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
+  * <strong>Front-End:</strong> ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=border-radius:10px&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/css3-%231572B6.svg?style=border-radius:10px&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/javascript-%23323330.svg?style=border-radius:10px&logo=javascript&logoColor=%23F7DF1E)
-  * Versioning: ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=border-radius:10px&logo=git&logoColor=white) 
+  * <strong>Versioning:</strong> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=border-radius:10px&logo=git&logoColor=white) 
   ![](https://img.shields.io/badge/github-%23121011.svg?style=border-radius:10px&logo=github&logoColor=white)
-  * OS: 
+  * <strong>OS:</strong>
   ![](https://img.shields.io/badge/Windows-0078D6?style=border-radius:10px&logo=windows&logoColor=white)
   ![](https://img.shields.io/badge/Linux-FCC624?style=border-radius:10px&logo=linux&logoColor=black)
-  * IDE:
+  * <strong>IDE:</strong>
   ![](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=border-radius:10px&logo=Eclipse&logoColor=white)
   ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=border-radius:10px&logo=intellij-idea&logoColor=white)
   ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=border-radius:10px&logo=visual-studio-code&logoColor=white)
-  * Design:
+  * <strong>Design:</strong>
   ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=border-radius:10px&logo=figma&logoColor=white)
   ![](https://img.shields.io/badge/gimp-5C5543?style=border-radius:10px&logo=gimp&logoColor=white)
   
 </div>
-
 <h2 align="center">Sobre mim</h2>
 <p><q>A vitória está reservada para aqueles que estão dispostos a pagar o preço.</q> -Sun Tzu.</p>
 <!-- coment -->
@@ -40,7 +39,7 @@
   * 🐧  Sou Iniciante em Linux;
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ⌨️  Fonte monoespaçada favorita: ![Office Code Pro](https://github.com/nathco/Office-Code-Pro); 
+  * ⌨️  Fonte monoespaçada favorita: ![Source Code Pro](https://github.com/adobe-fonts/source-code-pro); 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
   
 
