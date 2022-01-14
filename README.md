@@ -1,17 +1,26 @@
+<h1 align="center">Seja bem-Vindo(a)</h1>
 <div style="display: inline_block" align="center">
-  <img width="500em" src="https://media4.giphy.com/media/LW5vBvAb48Oe9OoEKT/giphy.gif">
-</div>
+  <a href="https://github.com/samueltank">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=samueltank&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/>  
 
+  <a href="https://github.com/samueltank">
+  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltank&layout=compact&langs_count=7&theme=radical"/>
+</div>
 <h2 align="center">Linguagens, plataformas e ferramentas</h2>
  
 <div style="display: inline_block">
   
-  * <strong>Back-end:</strong> <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
+  <img src="https://content.techgig.com/thumb/msid-77132328,width-860,resizemode-4/Top-programming-projects-that-can-add-value-to-your-resume.jpg?140622" align="right" style="width:450px;display:inline_block;border-radius:50px;">
+  
+  * <strong>Back-End:</strong> <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
   * <strong>Front-End:</strong> ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=border-radius:10px&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/css3-%231572B6.svg?style=border-radius:10px&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/javascript-%23323330.svg?style=border-radius:10px&logo=javascript&logoColor=%23F7DF1E)
   * <strong>Versioning:</strong> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=border-radius:10px&logo=git&logoColor=white) 
-  ![](https://img.shields.io/badge/github-%23121011.svg?style=border-radius:10px&logo=github&logoColor=white)
+  ![](https://img.shields.io/badge/github-%23121011.svg?style=border-radius:10px&logo=github&logoColor=white) 
+  
+  
+  
   * <strong>OS:</strong>
   ![](https://img.shields.io/badge/Windows-0078D6?style=border-radius:10px&logo=windows&logoColor=white)
   ![](https://img.shields.io/badge/Linux-FCC624?style=border-radius:10px&logo=linux&logoColor=black)
@@ -37,17 +46,7 @@
   * 🎲  Ciência favorita: Matemática;
   * ⌨️  Fonte monoespaçada favorita: SF Mono(Apple); 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
-  
-
-<h2 align="center">Status</h2>
-<div style="display: inline_block" align="center">
-  <a href="https://github.com/samueltank">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=samueltank&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/>  
-
-  <a href="https://github.com/samueltank">
-  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueltank&layout=compact&langs_count=7&theme=radical"/>
-</div>
-                
+             
 <h2 align="center">Commits</h2>
     
 ![Snake animation](https://github.com/samueltank/samueltank/blob/output/github-contribution-grid-snake.svg)
