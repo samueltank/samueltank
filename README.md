@@ -12,15 +12,16 @@
   
   <img src="https://content.techgig.com/thumb/msid-77132328,width-860,resizemode-4/Top-programming-projects-that-can-add-value-to-your-resume.jpg?140622" align="right" style="width:450px;display:inline_block;border-radius:50px;">
   
-  * <strong>Back-End:</strong> <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
-  * <strong>Front-End:</strong> ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=border-radius:10px&logo=html5&logoColor=white)
+  * <strong>Back-End/Server side:</strong> <img src="https://img.shields.io/badge/Java-ED8B00?style=border-radius:10px&logo=java&logoColor=white" />
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=border-radius:10px&logo=php&logoColor=white)
+  * <strong>Front-End:</strong> 
+  ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=border-radius:10px&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/css3-%231572B6.svg?style=border-radius:10px&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/javascript-%23323330.svg?style=border-radius:10px&logo=javascript&logoColor=%23F7DF1E)
   * <strong>Versioning:</strong> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=border-radius:10px&logo=git&logoColor=white) 
-  ![](https://img.shields.io/badge/github-%23121011.svg?style=border-radius:10px&logo=github&logoColor=white) 
-  
-  
-  
+  ![](https://img.shields.io/badge/github-%23121011.svg?style=border-radius:10px&logo=github&logoColor=white)
+  * <strong>Mobile:</strong>
+  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=border-radius:10px&logo=kotlin&logoColor=white)
   * <strong>OS:</strong>
   ![](https://img.shields.io/badge/Windows-0078D6?style=border-radius:10px&logo=windows&logoColor=white)
   ![](https://img.shields.io/badge/Linux-FCC624?style=border-radius:10px&logo=linux&logoColor=black)
@@ -39,14 +40,14 @@
 
   
   * 💻  Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Serviço Nacional de Aprendizagem Industrial;
-  * 🌱  Estou aprendendo tecnologias web como HTML, CSS e JavaScript;
-  * ☕  Estou aprendendo a linguagem de programação Java;
-  * 🐧  Sou Iniciante em Linux;
+  * 🌱  Estudo tecnologias web como HTML, CSS e JavaScript;
+  * ☕  Estodo a linguagem de programação Java;
+  * 🐧  Entusiasta Linux;
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ⌨️  Fonte monoespaçada favorita: SF Mono(Apple); 
+  * ⌨️  Fonte monoespaçada favorita: Consolas(Luc(as) de Groot); 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
              
-<h2 align="center">Commits</h2>
+<h2 align="center">Serpent affamé</h2>
     
 ![Snake animation](https://github.com/samueltank/samueltank/blob/output/github-contribution-grid-snake.svg)
