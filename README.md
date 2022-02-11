@@ -1,4 +1,4 @@
-<h1 align="center">Seja bem-Vindo(a)</h1>
+<h1 align="center">Hello, i'm Sam.</h1>
 <div style="display: inline_block" align="center">
   <a href="https://github.com/samueltank">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=samueltank&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/>  
