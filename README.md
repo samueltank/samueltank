@@ -36,7 +36,7 @@
   
 </div>
 <h2 align="center">Sobre mim</h2>
-<p><q>A vitória está reservada para aqueles que estão dispostos a pagar o preço.</q> -Sun Tzu.</p>
+<p><q>Combati um bom combate, terminei a corrida, mantive a fé.</q></p>
 <!-- coment -->
 
   
