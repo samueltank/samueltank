@@ -41,12 +41,9 @@
 
   
   * 💻  Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Serviço Nacional de Aprendizagem Industrial;
-  * 🌱  Estudo tecnologias web como HTML, CSS e JavaScript;
-  * ☕  Estodo a linguagem de programação Java;
-  * 🐧  Entusiasta Linux;
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ⌨️  Fonte monoespaçada favorita: Consolas(Luc(as) de Groot); 
+  * ⌨️  Fonte monoespaçada favorita: JetBrains Mono; 
   * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
              
 <h2 align="center">Serpent affamé</h2>
