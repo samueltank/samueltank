@@ -28,7 +28,7 @@
   * <strong>IDE:</strong>
   ![](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=border-radius:10px&logo=Eclipse&logoColor=white)
   ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=border-radius:10px&logo=intellij-idea&logoColor=white)
-  * <strong>Code Editor</strong>
+  * <strong>Code Editor:</strong>
   ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=border-radius:10px&logo=visual-studio-code&logoColor=white)
   * <strong>Design:</strong>
   ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=border-radius:10px&logo=figma&logoColor=white)
@@ -40,11 +40,11 @@
 <!-- coment -->
 
   
-  * 💻  Atualmente estou cursando Técnico em Desenvolvimento de Sistemas na Serviço Nacional de Aprendizagem Industrial;
+  * 💻  Atualmente estou cursando Técnico em Desenvolvimento no SENAI-SP;
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
-  * ⌨️  Fonte monoespaçada favorita: JetBrains Mono; 
-  * 🧛  Tema Favorito: ![Dracula Theme](https://github.com/dracula/dracula-theme);
+  * ⌨️  Fonte monoespaçada favorita: Consolas; 
+  * 🧛  Tema Favorito: ![Omni Theme](https://github.com/getomni);
              
 <h2 align="center">Serpent affamé</h2>
     
