@@ -44,7 +44,7 @@
   * 💻  Aprendi lógica de programação em Portugol;
   * 🎲  Ciência favorita: Matemática;
   * ⌨️  Fonte monoespaçada favorita: Consolas; 
-  * 🧛  Tema Favorito: ![Omni Theme] (https://github.com/getomni);
+  * 🧛  Tema Favorito: Omni Theme.
              
 <h2 align="center">Serpent affamé</h2>
     
